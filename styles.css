@@ -137,12 +137,12 @@ body {
 .process-images {
   display: flex;
   justify-content: center;
-  gap: 20px;
+  gap: 32px;
   flex-wrap: wrap;
 }
 
 .process-images img {
-  max-width: 45%;
+  max-width: 100%;
   height: auto;
   border: 1px solid var(--subtle-accent-2);
   border-radius: 8px;
